@@ -519,7 +519,7 @@
  </layer>
  <layer id="13" name="Meeting 1" width="37" height="35">
   <properties>
-   <property name="jitsiRoom" type="bool" value="true"/>
+   <property name="jitsiRoom" value="meetingZone1"/>
    <property name="jitsiTriggerMessage" value="Join the meeting?"/>
   </properties>
   <data encoding="csv">
@@ -562,7 +562,7 @@
  </layer>
  <layer id="22" name="Meeting 2" width="37" height="35">
   <properties>
-   <property name="jitsiRoom" type="bool" value="true"/>
+   <property name="jitsiRoom" value="meetingZone2"/>
    <property name="jitsiTriggerMessage" value="Join the meeting?"/>
   </properties>
   <data encoding="csv">

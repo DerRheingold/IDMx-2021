@@ -41,8 +41,8 @@
          "properties":[
                 {
                  "name":"jitsiRoom",
-                 "type":"bool",
-                 "value":true
+                 "type":"string",
+                 "value":"meetingZone1"
                 }, 
                 {
                  "name":"jitsiTriggerMessage",
@@ -64,8 +64,8 @@
          "properties":[
                 {
                  "name":"jitsiRoom",
-                 "type":"bool",
-                 "value":true
+                 "type":"string",
+                 "value":"meetingZone2"
                 }, 
                 {
                  "name":"jitsiTriggerMessage",
